@@ -1,0 +1,121 @@
+*{
+        margin: 0;
+       padding: 0;
+          box-sizing: boarder border-box;
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+    margin: auto;
+ 
+}
+.Assignment{
+    /* margin: auto; */
+    background-color: hsl(0, 0%, 100%);
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+    padding: 40px;
+    border-radius: 15px;
+}
+.image{
+    background-image: url("image-omelette.jpeg");
+    margin: auto;
+    height:400px;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+}
+.simple{
+    font-family: "Young Serif", serif;
+ margin-bottom: 20px;
+ color: hsl(24, 5%, 18%);
+}
+.description{
+    line-height: 25px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: hsl(24, 5%, 18%);
+    font-family: "Outfit", sans-serif;
+}
+.preparation-details{
+   background-color: hsl(330, 100%, 98%);
+   padding: 30px;
+   line-height: 25px;
+   margin-bottom: 10px;
+   font-size: 16px;
+   font-family: "Outfit", sans-serif;
+}
+.preparation{
+    font-family: "Outfit", sans-serif;
+    color: hsl(332, 51%, 32%);
+    margin-bottom: 10px; 
+}
+
+li::marker{
+    color: hsl(14, 45%, 36%);;
+}
+.ingredients-details{
+    line-height: 25px;
+    margin-bottom: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: hsl(24, 5%, 18%);
+    font-family: "Outfit", sans-serif;
+    
+}
+.ingredients{
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    /* line-height: 25px;   */
+    margin-bottom: 10px;
+}
+.instractions-details{
+    line-height: 30px;
+    font-family: "Outfit", sans-serif;
+    padding: 10px;
+    font-size: 16px;
+   color: hsl(24, 5%, 18%)
+  
+}
+.instractions{
+    color: hsl(14, 45%, 36%);  
+    margin-bottom: 10px;
+    font-family: "Young Serif", serif;
+}
+.nutrition{
+    font-family: "Young Serif", serif;
+  color: hsl(14, 45%, 36%);
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-family: "Outfit", sans-serif; 
+}
+.details3{
+    font-family: "Outfit", sans-serif;
+    margin-top: 10px;
+    color: hsl(24, 5%, 18%)
+    
+}
+.nutrients{
+   color:hsl(24, 5%, 18%);
+   font-family: "Outfit", sans-serif;
+    margin-top: 10px; 
+    
+}
+.property{
+word-spacing: 5px;
+color: hsl(24, 5%, 18%);
+margin-top: 20px;   
+
+}
+
+.value{
+    display: flex;
+    justify-content: center;
+    color:hsl(14, 45%, 36%); 
+    font-weight: bold; 
+}
+   
+
