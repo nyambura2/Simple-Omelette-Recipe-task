@@ -37,4 +37,6 @@ The table below shows nutritional values per serving without the additional fill
 - **Calories**: 277kcal
 - **Carbs**: 0g
 - **Proteins**: 20g
-- **Fat**: 22g<img width="786" alt="Screenshot 2024-03-28 124301" src="https://github.com/nyambura2/Simple-Omelette-Recipe-task/assets/123564063/e6c51bbb-5cd6-4290-852f-952bfa09447d">
+- **Fat**: 22g
+  ## Screenshot 
+<img width="786" alt="Screenshot 2024-03-28 124301" src="https://github.com/nyambura2/Simple-Omelette-Recipe-task/assets/123564063/e6c51bbb-5cd6-4290-852f-952bfa09447d">
